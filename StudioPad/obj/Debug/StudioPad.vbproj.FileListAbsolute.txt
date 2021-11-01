@@ -1,0 +1,2 @@
+C:\Users\LUMATECH\AppData\Local\Temporary Projects\StudioPad\bin\Debug\StudioPad.exe.config
+C:\Users\LUMATECH\Documents\Visual Studio 2012\Projects\StudioPad\StudioPad\bin\Debug\StudioPad.exe.config

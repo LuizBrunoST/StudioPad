@@ -1,0 +1,22 @@
+﻿<doc>
+	<brackets left="{" right="}" />
+
+	<style name="Blue1" color="Blue" fontStyle="Bold,Italic" />
+	<style name="Blue" color="Blue"/>
+	<style name="Red" color="Red" backColor="#f5f5e5" />
+	<style name="Green" color="Green" />
+
+	<!--<rule style="Green" options="Singleline" fontStyle="Bold,Italic">(&lt;!--.*?--&rcub;)|(&lt;!--.*)</rule>-->
+	<!--<rule style="Green" options="Singleline,RightToLeft" fontStyle="Italic">(&lt;!--.*?--&rcub;)|(.*--&rcub;)</rule>-->
+	<rule style="Blue">&lcub;|/&rcub;|&lcub;/|&rcub;</rule>
+	<rule style="Blue">&lcub;|/&rcub;|&lcub;/|&rcub;</rule>
+	<rule style="Blue1">&lcub;(?&lcub;range&rcub;[!\w\d]+)</rule>
+	<rule style="Blue1">&lcub;/(?&lcub;range&rcub;[\w\d]+)&rcub;</rule>
+	<rule style="Red" options="Multiline">(?&lcub;range&rcub;\S+?)='[^']*'|(?&lcub;range&rcub;\S+)="[^"]*"|(?&lcub;range&rcub;\S+)=\S+</rule>
+
+  <!--<folding start="&lt;html" finish="&lt;/html&gt;" options="IgnoreCase"/>
+  <folding start="&lt;head" finish="&lt;/head&gt;" options="IgnoreCase"/>
+  <folding start="&lt;title" finish="&lt;/title&gt;" options="IgnoreCase"/>
+  <folding start="&lt;body" finish="&lt;/body&gt;" options="IgnoreCase"/>
+  <folding start="&lt;div" finish="&lt;/div&gt;" options="IgnoreCase"/>-->
+</doc>
