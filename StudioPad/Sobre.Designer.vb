@@ -73,7 +73,7 @@ Partial Class Sobre
         'LogoPictureBox
         '
         Me.LogoPictureBox.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.LogoPictureBox.Image = Global.StudioPad.My.Resources.Resources.android_icon_144x144
+        Me.LogoPictureBox.Image = Global.StudioPad.My.Resources.Resources.icon
         Me.LogoPictureBox.Location = New System.Drawing.Point(3, 4)
         Me.LogoPictureBox.Margin = New System.Windows.Forms.Padding(3, 4, 3, 4)
         Me.LogoPictureBox.Name = "LogoPictureBox"

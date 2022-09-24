@@ -101,7 +101,7 @@ Partial Class Intro
         '
         'PictureBox1
         '
-        Me.PictureBox1.Image = Global.StudioPad.My.Resources.Resources.android_icon_144x144
+        Me.PictureBox1.Image = Global.StudioPad.My.Resources.Resources.icon
         Me.PictureBox1.Location = New System.Drawing.Point(4, 3)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(100, 100)
@@ -111,7 +111,7 @@ Partial Class Intro
         '
         'Button2
         '
-        Me.Button2.BackgroundImage = Global.StudioPad.My.Resources.Resources.screencapture_localhost_APLICATIVOS_TEMPLETE_EM_BRANCO_OU_html_2021_01_18_21_54_00
+        Me.Button2.BackgroundImage = Global.StudioPad.My.Resources.Resources.layout2
         Me.Button2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.Button2.FlatAppearance.BorderColor = System.Drawing.Color.Gray
         Me.Button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat
@@ -125,7 +125,7 @@ Partial Class Intro
         '
         'Button1
         '
-        Me.Button1.BackgroundImage = Global.StudioPad.My.Resources.Resources.screencapture_localhost_APLICATIVOS_TEMPLETE_EM_BRANCO_2021_01_18_21_35_10
+        Me.Button1.BackgroundImage = Global.StudioPad.My.Resources.Resources.empty
         Me.Button1.FlatAppearance.BorderColor = System.Drawing.Color.Gray
         Me.Button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button1.Location = New System.Drawing.Point(6, 6)

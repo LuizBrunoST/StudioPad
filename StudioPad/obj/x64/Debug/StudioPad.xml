@@ -15,15 +15,15 @@ StudioPad
   Overrides the current thread's CurrentUICulture property for all
   resource lookups using this strongly typed resource class.
 </summary>
-</member><member name="P:StudioPad.My.Resources.Resources.android_icon_144x144">
+</member><member name="P:StudioPad.My.Resources.Resources.empty">
 	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:StudioPad.My.Resources.Resources.screencapture_localhost_APLICATIVOS_TEMPLETE_EM_BRANCO_2021_01_18_21_35_10">
+</member><member name="P:StudioPad.My.Resources.Resources.icon">
 	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:StudioPad.My.Resources.Resources.screencapture_localhost_APLICATIVOS_TEMPLETE_EM_BRANCO_OU_html_2021_01_18_21_54_00">
+</member><member name="P:StudioPad.My.Resources.Resources.layout2">
 	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>

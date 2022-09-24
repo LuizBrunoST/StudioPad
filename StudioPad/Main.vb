@@ -102,7 +102,7 @@ Public Class Main
     End Sub
 
     Private Sub FastColoredTextBox1_Load(sender As Object, e As EventArgs) Handles FastColoredTextBox1.TextChanged
-        FastColoredTextBox1.DescriptionFile = "htmlDesc.xml" 'Colorir o HTML
+        FastColoredTextBox1.DescriptionFile = "file:///htmlDesc.xml" 'Colorir o HTML
         WebBrowser1.DocumentText = FastColoredTextBox1.Text
     End Sub
 
