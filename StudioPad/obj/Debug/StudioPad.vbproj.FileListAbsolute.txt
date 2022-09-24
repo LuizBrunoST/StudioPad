@@ -1,2 +1,30 @@
 C:\Users\LUMATECH\AppData\Local\Temporary Projects\StudioPad\bin\Debug\StudioPad.exe.config
 C:\Users\LUMATECH\Documents\Visual Studio 2012\Projects\StudioPad\StudioPad\bin\Debug\StudioPad.exe.config
+C:\xampp\htdocs\StudioPad\StudioPad\bin\Debug\StudioPad.exe.config
+C:\xampp\htdocs\StudioPad\StudioPad\bin\Debug\StudioPad.exe.manifest
+C:\xampp\htdocs\StudioPad\StudioPad\bin\Debug\StudioPad.application
+C:\xampp\htdocs\StudioPad\StudioPad\bin\Debug\StudioPad.exe
+C:\xampp\htdocs\StudioPad\StudioPad\bin\Debug\StudioPad.pdb
+C:\xampp\htdocs\StudioPad\StudioPad\bin\Debug\StudioPad.xml
+C:\xampp\htdocs\StudioPad\StudioPad\bin\Debug\AutocompleteMenu.dll
+C:\xampp\htdocs\StudioPad\StudioPad\bin\Debug\FastColoredTextBox.dll
+C:\xampp\htdocs\StudioPad\StudioPad\obj\Debug\StudioPad.vbprojResolveAssemblyReference.cache
+C:\xampp\htdocs\StudioPad\StudioPad\obj\Debug\StudioPad.Audio.resources
+C:\xampp\htdocs\StudioPad\StudioPad\obj\Debug\StudioPad.BemVindo.resources
+C:\xampp\htdocs\StudioPad\StudioPad\obj\Debug\StudioPad.Link.resources
+C:\xampp\htdocs\StudioPad\StudioPad\obj\Debug\StudioPad.Mobile.resources
+C:\xampp\htdocs\StudioPad\StudioPad\obj\Debug\StudioPad.Intro.resources
+C:\xampp\htdocs\StudioPad\StudioPad\obj\Debug\StudioPad.Main.resources
+C:\xampp\htdocs\StudioPad\StudioPad\obj\Debug\StudioPad.Resources.resources
+C:\xampp\htdocs\StudioPad\StudioPad\obj\Debug\StudioPad.Referencia.resources
+C:\xampp\htdocs\StudioPad\StudioPad\obj\Debug\StudioPad.Serial.resources
+C:\xampp\htdocs\StudioPad\StudioPad\obj\Debug\StudioPad.Sobre.resources
+C:\xampp\htdocs\StudioPad\StudioPad\obj\Debug\StudioPad.Video.resources
+C:\xampp\htdocs\StudioPad\StudioPad\obj\Debug\StudioPad.YouTubeEmbed.resources
+C:\xampp\htdocs\StudioPad\StudioPad\obj\Debug\StudioPad.vbproj.GenerateResource.Cache
+C:\xampp\htdocs\StudioPad\StudioPad\obj\Debug\StudioPad.TrustInfo.xml
+C:\xampp\htdocs\StudioPad\StudioPad\obj\Debug\StudioPad.exe.manifest
+C:\xampp\htdocs\StudioPad\StudioPad\obj\Debug\StudioPad.application
+C:\xampp\htdocs\StudioPad\StudioPad\obj\Debug\StudioPad.exe
+C:\xampp\htdocs\StudioPad\StudioPad\obj\Debug\StudioPad.xml
+C:\xampp\htdocs\StudioPad\StudioPad\obj\Debug\StudioPad.pdb

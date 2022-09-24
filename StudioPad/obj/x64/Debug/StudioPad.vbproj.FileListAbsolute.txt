@@ -27,3 +27,30 @@ C:\Users\LUMATECH\Documents\Visual Studio 2012\Projects\StudioPad\StudioPad\obj\
 C:\Users\LUMATECH\Documents\Visual Studio 2012\Projects\StudioPad\StudioPad\obj\x64\Debug\StudioPad.YouTubeEmbed.resources
 C:\Users\LUMATECH\Documents\Visual Studio 2012\Projects\StudioPad\StudioPad\bin\x64\Debug\WebKitBrowser.dll
 C:\Users\LUMATECH\Documents\Visual Studio 2012\Projects\StudioPad\StudioPad\bin\x64\Debug\WebKit.Interop.dll
+C:\xampp\htdocs\StudioPad\StudioPad\bin\x64\Debug\StudioPad.exe.config
+C:\xampp\htdocs\StudioPad\StudioPad\obj\x64\Debug\StudioPad.xml
+C:\xampp\htdocs\StudioPad\StudioPad\obj\x64\Debug\StudioPad.pdb
+C:\xampp\htdocs\StudioPad\StudioPad\bin\x64\Debug\StudioPad.exe.manifest
+C:\xampp\htdocs\StudioPad\StudioPad\bin\x64\Debug\StudioPad.application
+C:\xampp\htdocs\StudioPad\StudioPad\bin\x64\Debug\StudioPad.exe
+C:\xampp\htdocs\StudioPad\StudioPad\bin\x64\Debug\StudioPad.pdb
+C:\xampp\htdocs\StudioPad\StudioPad\bin\x64\Debug\StudioPad.xml
+C:\xampp\htdocs\StudioPad\StudioPad\bin\x64\Debug\AutocompleteMenu.dll
+C:\xampp\htdocs\StudioPad\StudioPad\bin\x64\Debug\FastColoredTextBox.dll
+C:\xampp\htdocs\StudioPad\StudioPad\obj\x64\Debug\StudioPad.Audio.resources
+C:\xampp\htdocs\StudioPad\StudioPad\obj\x64\Debug\StudioPad.BemVindo.resources
+C:\xampp\htdocs\StudioPad\StudioPad\obj\x64\Debug\StudioPad.Link.resources
+C:\xampp\htdocs\StudioPad\StudioPad\obj\x64\Debug\StudioPad.Mobile.resources
+C:\xampp\htdocs\StudioPad\StudioPad\obj\x64\Debug\StudioPad.Intro.resources
+C:\xampp\htdocs\StudioPad\StudioPad\obj\x64\Debug\StudioPad.Main.resources
+C:\xampp\htdocs\StudioPad\StudioPad\obj\x64\Debug\StudioPad.Resources.resources
+C:\xampp\htdocs\StudioPad\StudioPad\obj\x64\Debug\StudioPad.Referencia.resources
+C:\xampp\htdocs\StudioPad\StudioPad\obj\x64\Debug\StudioPad.Serial.resources
+C:\xampp\htdocs\StudioPad\StudioPad\obj\x64\Debug\StudioPad.Sobre.resources
+C:\xampp\htdocs\StudioPad\StudioPad\obj\x64\Debug\StudioPad.Video.resources
+C:\xampp\htdocs\StudioPad\StudioPad\obj\x64\Debug\StudioPad.YouTubeEmbed.resources
+C:\xampp\htdocs\StudioPad\StudioPad\obj\x64\Debug\StudioPad.vbproj.GenerateResource.Cache
+C:\xampp\htdocs\StudioPad\StudioPad\obj\x64\Debug\StudioPad.TrustInfo.xml
+C:\xampp\htdocs\StudioPad\StudioPad\obj\x64\Debug\StudioPad.exe.manifest
+C:\xampp\htdocs\StudioPad\StudioPad\obj\x64\Debug\StudioPad.application
+C:\xampp\htdocs\StudioPad\StudioPad\obj\x64\Debug\StudioPad.exe
